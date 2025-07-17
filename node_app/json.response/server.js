@@ -8,7 +8,6 @@ const server = http.createServer((req, res) => {
         job: 'singing',
         hobby:'travel',
         marks:[6,45,23]
-      
     };
 
     res.statusCode = 200; // OK

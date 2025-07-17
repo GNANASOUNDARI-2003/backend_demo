@@ -6,6 +6,7 @@ const server = http.createServer((req, res) => {
       name: 'sam',
       age: 12,
         job: 'singing',
+        hobby:'travel',
         marks:[6,45,23]
       
     };
